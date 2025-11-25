@@ -36,8 +36,8 @@ WindUI:Popup({
 
 -- */  Window  /* --
 local Window = WindUI:CreateWindow({
-    Title = ".ftgs hub  |  WindUI Example",
-    Author = "by .ftgs • Footagesus",
+    Title = ".My person hub ",
+    Author = "by lionssnoil snoiler",
     Folder = "ftgshub",
     Icon = "sfsymbols:appleLogo",
     IconSize = 22*2,
